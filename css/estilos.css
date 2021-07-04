@@ -15,7 +15,6 @@ body {
     flex-direction: column;
 }
 
-
 .descuento {
     background-color: #D1891C;
     width: 100%;
@@ -38,6 +37,15 @@ body {
 }
 
 /*Cards*/
+.div-boton {
+    position: relative;
+}
+.boton-mas {
+    height: 50px;
+    position: fixed;
+    right: 40px;
+    top: 50%;
+}
 .card-section {
     display: flex;
     justify-content: space-between;
