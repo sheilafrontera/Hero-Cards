@@ -45,6 +45,7 @@ body {
     position: fixed;
     right: 40px;
     top: 50%;
+    border-radius: 50%;
 }
 .card-section {
     display: flex;
